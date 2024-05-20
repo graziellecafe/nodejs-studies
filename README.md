@@ -68,6 +68,6 @@ Quando utilizamos o **GET** aqui dentro, a gente está utilizando o método **HT
 
 Método **POST**: Quando eu quero criar um registro, quando a gente for criar o vídeo.
 
-Método **UPDATE**: Quando é para fazer uma alteração. 
+Método **PUT**: Quando é para fazer uma alteração. 
 
 Método **DELETE**: quando é para deletar. 
